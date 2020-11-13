@@ -2,9 +2,6 @@
 
 This repo contains some example code for making a Node.js socket server and client, a WebSocket server and client, and also PubNub based messaging with JavaScript. There is an example with browser JavaScript as well. Check out the YouTube video to see the code running if you don't want to take the time to clone and run.
 
-## YouTube Video of Node.js WebSocket Examples
- - https://www.youtube.com/watch?v=YaJbc7s1ROg
-
 ## Tutorial Blog Post on PubNub Blog
  - [Node.js WebSocket Programming Examples | PubNub Blog](https://www.pubnub.com/blog/nodejs-websocket-programming-examples/?devrel_gh=nodejs-websocket-examples)
 
